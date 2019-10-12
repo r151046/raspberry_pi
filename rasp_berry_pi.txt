@@ -1,0 +1,19 @@
+raspberry pi
+
+installing os in raspberry pi
+1.take a memory with specifications greater than 8 gb.
+2.download noobs lite to install from online else just download noobs.
+3.extract noobs and paste the items in the formatted memory.
+3. it is always recommended to install from web cause it wont corrupt os.
+4. we can write the os into the memory card through few disk writers but its not efficient cause it will end up with few errors while restarting the pi.
+
+working with pi:
+
+putty
+1. its for accessing the terminal of pi from your laptop or anything to turn on vnc viewer.
+2. you have to connect to the same wifi network to which pi is connected then type the pi ip in the putty which then opens your pi terminal.
+3. then type vncserver :3
+
+vnc viewer
+
+1. it is for displaying or controlling your pi to many divices 
